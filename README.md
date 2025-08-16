@@ -5,6 +5,8 @@ This project develops an advanced predictive model to determine loan approval st
 
 
 **Dataset**
+
+
 Source:
 Kaggle Loan Prediction Dataset
 Link: https://www.kaggle.com/datasets/altruist/delhi-house-price-prediction
@@ -21,7 +23,7 @@ SHAP explainability to interpret feature importance, achieving 92% consistency i
 Visualization of confusion matrix and feature importance plots.
 
 
-**Installation**
+**Installation:**
 
 
 Clone the repository:
