@@ -4,7 +4,7 @@
 This project develops an advanced predictive model to determine loan approval status using the Kaggle Loan Prediction dataset. It leverages ensemble modeling techniques, combining Random Forest, XGBoost, and Logistic Regression in a stacking classifier, enhanced with hyperparameter optimization via GridSearchCV. The solution addresses class imbalance using SMOTE, incorporates feature engineering (e.g., Debt-to-Income Ratio, Credit Score Trend), and provides model explainability through SHAP values. Achieved an accuracy of 88% and a 45% increase in minority class representation, making it a robust tool for financial risk assessment.
 
 
-**Dataset**
+**Dataset:**
 
 
 Source:
